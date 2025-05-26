@@ -1,4 +1,4 @@
-index.html
+<a href="index.html">Kthehu në faqen kryesore</a>
 <!DOCTYPE html>
 <html lang="sq">
 <head>
